@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Timerproject/static/css/main.114d1d32.chunk.css",
+    "main.js": "/Timerproject/static/js/main.c42e8532.chunk.js",
+    "main.js.map": "/Timerproject/static/js/main.c42e8532.chunk.js.map",
+    "runtime-main.js": "/Timerproject/static/js/runtime-main.6be4bafe.js",
+    "runtime-main.js.map": "/Timerproject/static/js/runtime-main.6be4bafe.js.map",
+    "static/js/2.10f13de8.chunk.js": "/Timerproject/static/js/2.10f13de8.chunk.js",
+    "static/js/2.10f13de8.chunk.js.map": "/Timerproject/static/js/2.10f13de8.chunk.js.map",
+    "static/js/3.26476346.chunk.js": "/Timerproject/static/js/3.26476346.chunk.js",
+    "static/js/3.26476346.chunk.js.map": "/Timerproject/static/js/3.26476346.chunk.js.map",
+    "index.html": "/Timerproject/index.html",
+    "static/css/main.114d1d32.chunk.css.map": "/Timerproject/static/css/main.114d1d32.chunk.css.map",
+    "static/js/2.10f13de8.chunk.js.LICENSE.txt": "/Timerproject/static/js/2.10f13de8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6be4bafe.js",
+    "static/js/2.10f13de8.chunk.js",
+    "static/css/main.114d1d32.chunk.css",
+    "static/js/main.c42e8532.chunk.js"
+  ]
+}
